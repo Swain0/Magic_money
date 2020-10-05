@@ -13,4 +13,4 @@ Your generated transaction list will exported into a CSV file (found in the same
 I've planned some updates which will include transaction descriptions, +/- transactions, alt currency symbols...
 
 # Questions or comments
-Drop my a line on twitter: @Swain0.
+Drop me a line on twitter: @Swain0.
