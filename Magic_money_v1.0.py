@@ -9,16 +9,16 @@ def research_questions():
 
 	global testingDate
 
-	print('When is your user testing? I need to know this so I can create realistic transactions.')
-	print('Use dd/mm/yyyy format.')
-
-	print('On what day (dd) is the testing happening?')
+	print('Hi there. Let\'s generate you some transactions. I\'m going to ask you some quick questions.') 
+	
+	print('What day (dd) is the testing happening?')
+	print('eg 20/04/2020')
 	research_day = int(input(':> '))
 
-	print('In what month (mm)?')
+	print('Month (mm)?')
 	research_month = int(input(':> '))
 
-	print('And, in what year (yyyy)?')
+	print('Year (yyyy)?')
 	research_year = int(input(':> '))
 
 	print('Finally, how many transactions do you need?')
@@ -53,7 +53,7 @@ def summary():
 	print('')
 	print('I\'ve saved these transactions into a CSV file which should be alongside this script.')
 	print('')
-	print('Good luck with your prototype and testing, I hope you learn something interesting. :-)')
+	print('Good luck with your prototype and testing, hope you learn something interesting :-)')
 	print('@Swain0')
 	print('')
 
