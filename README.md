@@ -1,6 +1,8 @@
 # Magic_money 💰
 Generates a list of banking transactions for designers to use in their prototypes and user tests.
 
+![Magic money running and creating a spreadsheet of transactions] (image1.png)
+
 # Installation
 1. Copy the `Magic_money_vX.X.py` script to a folder on your computer.
 1. Using Terminal (or OS equivalent), navigate to the folder's location and run following script to generate the list of transactions. 
